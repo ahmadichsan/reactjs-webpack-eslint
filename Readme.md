@@ -1,0 +1,1 @@
+Just a simple reactjs webapp starter pack which made with webpack and use linter on it.
